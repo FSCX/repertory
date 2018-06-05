@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<beauties>
+    <beauty>
+        <name>AA</name>
+        <age>22</age>
+    </beauty>
+    <beauty>
+        <name>BB</name>
+        <age>20</age>
+    </beauty>
+</beauties>
